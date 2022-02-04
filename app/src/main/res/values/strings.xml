@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Control de Tabs</string>
+    <string name="Contacto">Contacto</string>
+    <string name="Correo">Correo</string>
+    <string name="Mensaje">Mensaje</string>
+    <string name="Telefono">Telefono</string>
+    //strins creados para los framentos de pantalla.
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragContacto">Pantalla de Contacto</string>
+    <string name="fragCorreo">Pantalla de Correo</string>
+    <string name="fragMensaje">Pantalla de Mensaje</string>
+    <string name="fragTelefono">Pantalla de Telefono</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
